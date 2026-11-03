@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://spice-grinder.lifeofmorr.com/sitemap.xml
